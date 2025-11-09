@@ -1,4 +1,6 @@
 spring:
+  profiles:
+    active: open
   datasource:
     use-db: ${spring.datasource.use-db:oracle}
     mysql:

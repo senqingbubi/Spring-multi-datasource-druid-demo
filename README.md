@@ -6,7 +6,7 @@
 
 
 激活 open profile：
-   # 在 application.yml 中添加
+ 在 application.yml 中添加
    spring:
      profiles:
        active: open
